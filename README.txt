@@ -10,3 +10,8 @@ Sorting Algorithms
 1. Bubble Sort Algorithm
 2. Selection Sort Algorithm
 3. Insertion Sort Algorithm
+4. Shell Sort Algorithm
+5. Merge Sort Algorithm
+6. Quick Sort Algorithm
+7. Counting Sort Algorithm
+8. Radix Sort Algorithm
